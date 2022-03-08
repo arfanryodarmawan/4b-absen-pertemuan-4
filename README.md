@@ -21,3 +21,4 @@ Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 - Ardianto Nugroho | 2010631170056
 - [Irna Purnahasanah] [2010631170014]
 - [Dellia Deltania] [2010631170063]
+- [Arfan Ryo Darmawan] [2010631170057]
